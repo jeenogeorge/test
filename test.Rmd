@@ -1,0 +1,15 @@
+---
+title: "Test"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is a Rmarkdown doc. 
+
+```{r cars, echo=FALSE}
+summary(cars)
+```
+
